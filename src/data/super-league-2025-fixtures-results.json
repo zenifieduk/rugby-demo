@@ -1,0 +1,1107 @@
+{
+  "competition": "Betfred Super League 2025",
+  "season": 2025,
+  "fixtures": [
+    {
+      "round": 1,
+      "matches": [
+        {
+          "date": "2025-02-13",
+          "ko": "20:00",
+          "home": "Wigan Warriors",
+          "away": "Leigh Leopards",
+          "venue": "Brick Community Stadium",
+          "result": { "home": 0, "away": 1, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-02-14",
+          "ko": "20:00",
+          "home": "Hull Kingston Rovers",
+          "away": "Castleford Tigers",
+          "venue": "Sewell Group Craven Park",
+          "result": { "home": 19, "away": 18, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-02-14",
+          "ko": "20:00",
+          "home": "Catalans Dragons",
+          "away": "Hull FC",
+          "venue": "Stade Gilbert Brutus",
+          "result": { "home": 4, "away": 24, "winner": "Hull FC" }
+        },
+        {
+          "date": "2025-02-15",
+          "ko": "15:00",
+          "home": "Leeds Rhinos",
+          "away": "Wakefield Trinity",
+          "venue": "AMT Headingley",
+          "result": { "home": 12, "away": 14, "winner": "Wakefield Trinity" }
+        },
+        {
+          "date": "2025-02-15",
+          "ko": "17:30",
+          "home": "St Helens",
+          "away": "Salford Red Devils",
+          "venue": "Totally Wicked Stadium",
+          "result": { "home": 82, "away": 0, "winner": "St Helens" }
+        },
+        {
+          "date": "2025-02-16",
+          "ko": "15:00",
+          "home": "Huddersfield Giants",
+          "away": "Warrington Wolves",
+          "venue": "John Smith's Stadium",
+          "result": { "home": 12, "away": 20, "winner": "Warrington Wolves" }
+        }
+      ]
+    },
+    {
+      "round": 2,
+      "matches": [
+        {
+          "date": "2025-02-20",
+          "ko": "20:00",
+          "home": "Wakefield Trinity",
+          "away": "Hull KR",
+          "venue": "DIY Kitchens Stadium",
+          "result": { "home": 12, "away": 14, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-02-21",
+          "ko": "20:00",
+          "home": "Warrington Wolves",
+          "away": "Catalans Dragons",
+          "venue": "Halliwell Jones Stadium",
+          "result": { "home": 18, "away": 12, "winner": "Warrington Wolves" }
+        },
+        {
+          "date": "2025-02-21",
+          "ko": "20:00",
+          "home": "Hull FC",
+          "away": "Wigan Warriors",
+          "venue": "MKM Stadium",
+          "result": { "home": 4, "away": 46, "winner": "Wigan Warriors" }
+        },
+        {
+          "date": "2025-02-22",
+          "ko": "15:00",
+          "home": "Salford Red Devils",
+          "away": "Leeds Rhinos",
+          "venue": "Salford Community Stadium",
+          "result": { "home": 6, "away": 32, "winner": "Leeds Rhinos" }
+        },
+        {
+          "date": "2025-02-22",
+          "ko": "17:30",
+          "home": "Castleford Tigers",
+          "away": "St Helens",
+          "venue": "The Mend-A-Hose Jungle",
+          "result": { "home": 6, "away": 46, "winner": "St Helens" }
+        },
+        {
+          "date": "2025-02-23",
+          "ko": "15:00",
+          "home": "Leigh Leopards",
+          "away": "Huddersfield Giants",
+          "venue": "Leigh Sports Village",
+          "result": { "home": 24, "away": 10, "winner": "Leigh Leopards" }
+        }
+      ]
+    },
+    {
+      "round": 3,
+      "matches": [
+        {
+          "date": "2025-02-27",
+          "ko": "20:00",
+          "home": "Hull KR",
+          "away": "Salford Red Devils",
+          "venue": "Sewell Group Craven Park",
+          "result": { "home": 42, "away": 0, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-02-28",
+          "ko": "20:00",
+          "home": "Huddersfield Giants",
+          "away": "Hull FC",
+          "venue": "John Smith's Stadium",
+          "result": { "home": 10, "away": 11, "winner": "Hull FC" }
+        },
+        {
+          "date": "2025-02-28",
+          "ko": "20:00",
+          "home": "Leigh Leopards",
+          "away": "Catalans Dragons",
+          "venue": "Leigh Sports Village",
+          "result": { "home": 34, "away": 6, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-03-01",
+          "ko": "14:30",
+          "home": "Wakefield Trinity",
+          "away": "St Helens",
+          "venue": "DIY Kitchens Stadium",
+          "result": { "home": 6, "away": 26, "winner": "St Helens" }
+        },
+        {
+          "date": "2025-03-01",
+          "ko": "21:30",
+          "home": "Wigan Warriors",
+          "away": "Warrington Wolves",
+          "venue": "Allegiant Stadium, Las Vegas",
+          "result": { "home": 48, "away": 24, "winner": "Wigan Warriors" }
+        },
+        {
+          "date": "2025-03-02",
+          "ko": "15:00",
+          "home": "Leeds Rhinos",
+          "away": "Castleford Tigers",
+          "venue": "AMT Headingley",
+          "result": { "home": 38, "away": 24, "winner": "Leeds Rhinos" }
+        }
+      ]
+    },
+    {
+      "round": 4,
+      "matches": [
+        {
+          "date": "2025-03-06",
+          "ko": "20:00",
+          "home": "Hull FC",
+          "away": "Leigh Leopards",
+          "venue": "MKM Stadium",
+          "result": { "home": 22, "away": 22, "draw": true }
+        },
+        {
+          "date": "2025-03-07",
+          "ko": "20:00",
+          "home": "St Helens",
+          "away": "Hull KR",
+          "venue": "Totally Wicked Stadium",
+          "result": { "home": 10, "away": 20, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-03-07",
+          "ko": "20:00",
+          "home": "Castleford Tigers",
+          "away": "Salford Red Devils",
+          "venue": "The Mend-A-Hose Jungle",
+          "result": { "home": 22, "away": 14, "winner": "Castleford Tigers" }
+        },
+        {
+          "date": "2025-03-08",
+          "ko": "15:00",
+          "home": "Catalans Dragons",
+          "away": "Leeds Rhinos",
+          "venue": "Stade Gilbert Brutus",
+          "result": { "home": 11, "away": 0, "winner": "Catalans Dragons" }
+        },
+        {
+          "date": "2025-03-09",
+          "ko": "15:00",
+          "home": "Warrington Wolves",
+          "away": "Wakefield Trinity",
+          "venue": "Halliwell Jones Stadium",
+          "result": { "home": 16, "away": 30, "winner": "Wakefield Trinity" }
+        },
+        {
+          "date": "2025-03-09",
+          "ko": "15:00",
+          "home": "Wigan Warriors",
+          "away": "Huddersfield Giants",
+          "venue": "Brick Community Stadium",
+          "result": { "home": 44, "away": 18, "winner": "Wigan Warriors" }
+        }
+      ]
+    },
+    {
+      "round": 5,
+      "matches": [
+        {
+          "date": "2025-03-20",
+          "ko": "20:00",
+          "home": "Salford Red Devils",
+          "away": "Huddersfield Giants",
+          "venue": "Salford Community Stadium",
+          "result": { "home": 23, "away": 10, "winner": "Salford Red Devils" }
+        },
+        {
+          "date": "2025-03-21",
+          "ko": "20:00",
+          "home": "St Helens",
+          "away": "Warrington Wolves",
+          "venue": "Totally Wicked Stadium",
+          "result": { "home": 12, "away": 14, "winner": "Warrington Wolves" }
+        },
+        {
+          "date": "2025-03-21",
+          "ko": "20:00",
+          "home": "Wakefield Trinity",
+          "away": "Hull FC",
+          "venue": "DIY Kitchens Stadium",
+          "result": { "home": 12, "away": 16, "winner": "Hull FC" }
+        },
+        {
+          "date": "2025-03-22",
+          "ko": "15:00",
+          "home": "Castleford Tigers",
+          "away": "Catalans Dragons",
+          "venue": "The Mend-A-Hose Jungle",
+          "result": { "home": 4, "away": 26, "winner": "Catalans Dragons" }
+        },
+        {
+          "date": "2025-03-22",
+          "ko": "17:30",
+          "home": "Leeds Rhinos",
+          "away": "Wigan Warriors",
+          "venue": "AMT Headingley",
+          "result": { "home": 12, "away": 10, "winner": "Leeds Rhinos" }
+        },
+        {
+          "date": "2025-03-23",
+          "ko": "15:00",
+          "home": "Hull KR",
+          "away": "Leigh Leopards",
+          "venue": "Sewell Group Craven Park",
+          "result": { "home": 30, "away": 0, "winner": "Hull KR" }
+        }
+      ]
+    },
+    {
+      "round": 6,
+      "matches": [
+        {
+          "date": "2025-03-27",
+          "ko": "20:00",
+          "home": "Castleford Tigers",
+          "away": "Hull FC",
+          "venue": "The Mend-A-Hose Jungle",
+          "result": { "home": 14, "away": 24, "winner": "Hull FC" }
+        },
+        {
+          "date": "2025-03-28",
+          "ko": "20:00",
+          "home": "Warrington Wolves",
+          "away": "Leeds Rhinos",
+          "venue": "Halliwell Jones Stadium",
+          "result": { "home": 16, "away": 14, "winner": "Warrington Wolves" }
+        },
+        {
+          "date": "2025-03-28",
+          "ko": "20:00",
+          "home": "Leigh Leopards",
+          "away": "Wakefield Trinity",
+          "venue": "Leigh Sports Village",
+          "result": { "home": 14, "away": 40, "winner": "Wakefield Trinity" }
+        },
+        {
+          "date": "2025-03-29",
+          "ko": "17:00",
+          "home": "Catalans Dragons",
+          "away": "St Helens",
+          "venue": "Stade Gilbert Brutus",
+          "result": { "home": 13, "away": 14, "winner": "St Helens" }
+        },
+        {
+          "date": "2025-03-30",
+          "ko": "15:00",
+          "home": "Huddersfield Giants",
+          "away": "Hull KR",
+          "venue": "John Smith's Stadium",
+          "result": { "home": 4, "away": 50, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-03-30",
+          "ko": "15:00",
+          "home": "Wigan Warriors",
+          "away": "Salford Red Devils",
+          "venue": "Brick Community Stadium",
+          "result": { "home": 54, "away": 0, "winner": "Wigan Warriors" }
+        }
+      ]
+    },
+    {
+      "round": 7,
+      "matches": [
+        {
+          "date": "2025-04-10",
+          "ko": "20:00",
+          "home": "Salford Red Devils",
+          "away": "Leeds Rhinos",
+          "venue": "Salford Community Stadium",
+          "result": { "home": 0, "away": 28, "winner": "Leeds Rhinos" }
+        },
+        {
+          "date": "2025-04-11",
+          "ko": "20:00",
+          "home": "Hull KR",
+          "away": "Wigan Warriors",
+          "venue": "Sewell Group Craven Park",
+          "result": { "home": 12, "away": 28, "winner": "Wigan Warriors" }
+        },
+        {
+          "date": "2025-04-11",
+          "ko": "20:00",
+          "home": "St Helens",
+          "away": "Wakefield Trinity",
+          "venue": "Totally Wicked Stadium",
+          "result": { "home": 26, "away": 14, "winner": "St Helens" }
+        },
+        {
+          "date": "2025-04-12",
+          "ko": "17:30",
+          "home": "Warrington Wolves",
+          "away": "Hull FC",
+          "venue": "Halliwell Jones Stadium",
+          "result": { "home": 16, "away": 28, "winner": "Hull FC" }
+        },
+        {
+          "date": "2025-04-12",
+          "ko": "15:00",
+          "home": "Castleford Tigers",
+          "away": "Leigh Leopards",
+          "venue": "The Mend-A-Hose Jungle",
+          "result": { "home": 6, "away": 20, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-04-13",
+          "ko": "15:00",
+          "home": "Huddersfield Giants",
+          "away": "Catalans Dragons",
+          "venue": "John Smith's Stadium",
+          "result": { "home": 18, "away": 38, "winner": "Catalans Dragons" }
+        }
+      ]
+    },
+    {
+      "round": 8,
+      "name": "Rivals Round",
+      "matches": [
+        {
+          "date": "2025-04-17",
+          "ko": "20:00",
+          "home": "Wakefield Trinity",
+          "away": "Castleford Tigers",
+          "venue": "DIY Kitchens Stadium",
+          "result": { "home": 13, "away": 12, "winner": "Wakefield Trinity" }
+        },
+        {
+          "date": "2025-04-18",
+          "ko": "20:00",
+          "home": "Hull FC",
+          "away": "Hull KR",
+          "venue": "MKM Stadium",
+          "result": { "home": 14, "away": 28, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-04-18",
+          "ko": "20:00",
+          "home": "Wigan Warriors",
+          "away": "St Helens",
+          "venue": "Brick Community Stadium",
+          "result": { "home": 24, "away": 14, "winner": "Wigan Warriors" }
+        },
+        {
+          "date": "2025-04-18",
+          "ko": "20:00",
+          "home": "Leeds Rhinos",
+          "away": "Huddersfield Giants",
+          "venue": "AMT Headingley",
+          "result": { "home": 28, "away": 6, "winner": "Leeds Rhinos" }
+        },
+        {
+          "date": "2025-04-19",
+          "ko": "13:30",
+          "home": "Leigh Leopards",
+          "away": "Warrington Wolves",
+          "venue": "Leigh Sports Village",
+          "result": { "home": 18, "away": 14, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-04-19",
+          "ko": "17:00",
+          "home": "Catalans Dragons",
+          "away": "Salford Red Devils",
+          "venue": "Stade Gilbert Brutus",
+          "result": { "home": 38, "away": 10, "winner": "Catalans Dragons" }
+        }
+      ]
+    },
+    {
+      "round": 9,
+      "matches": [
+        {
+          "date": "2025-04-24",
+          "ko": "20:00",
+          "home": "Warrington Wolves",
+          "away": "St Helens",
+          "venue": "Halliwell Jones Stadium",
+          "result": { "home": 32, "away": 18, "winner": "Warrington Wolves" }
+        },
+        {
+          "date": "2025-04-25",
+          "ko": "20:00",
+          "home": "Leeds Rhinos",
+          "away": "Hull KR",
+          "venue": "AMT Headingley",
+          "result": { "home": 14, "away": 20, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-04-26",
+          "ko": "15:00",
+          "home": "Huddersfield Giants",
+          "away": "Castleford Tigers",
+          "venue": "John Smith's Stadium",
+          "result": { "home": 12, "away": 30, "winner": "Castleford Tigers" }
+        },
+        {
+          "date": "2025-04-26",
+          "ko": "17:30",
+          "home": "Salford Red Devils",
+          "away": "Leigh Leopards",
+          "venue": "Salford Community Stadium",
+          "result": { "home": 6, "away": 28, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-04-26",
+          "ko": "17:30",
+          "home": "Catalans Dragons",
+          "away": "Wakefield Trinity",
+          "venue": "Stade Gilbert Brutus",
+          "result": { "home": 24, "away": 20, "winner": "Catalans Dragons" }
+        },
+        {
+          "date": "2025-04-27",
+          "ko": "15:00",
+          "home": "Hull FC",
+          "away": "Wigan Warriors",
+          "venue": "MKM Stadium",
+          "result": { "home": 12, "away": 36, "winner": "Wigan Warriors" }
+        }
+      ]
+    },
+    {
+      "round": 10,
+      "name": "Magic Weekend",
+      "venue": "St James' Park, Newcastle",
+      "matches": [
+        {
+          "date": "2025-05-03",
+          "ko": "14:30",
+          "home": "Leigh Leopards",
+          "away": "Catalans Dragons",
+          "result": { "home": 26, "away": 24, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-05-03",
+          "ko": "17:00",
+          "home": "Hull KR",
+          "away": "Salford Red Devils",
+          "result": { "home": 54, "away": 0, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-05-03",
+          "ko": "19:30",
+          "home": "St Helens",
+          "away": "Leeds Rhinos",
+          "result": { "home": 4, "away": 17, "winner": "Leeds Rhinos" }
+        },
+        {
+          "date": "2025-05-04",
+          "ko": "14:00",
+          "home": "Huddersfield Giants",
+          "away": "Hull FC",
+          "result": { "home": 12, "away": 10, "winner": "Huddersfield Giants" }
+        },
+        {
+          "date": "2025-05-04",
+          "ko": "16:30",
+          "home": "Wigan Warriors",
+          "away": "Warrington Wolves",
+          "result": { "home": 22, "away": 20, "winner": "Wigan Warriors" }
+        },
+        {
+          "date": "2025-05-04",
+          "ko": "19:00",
+          "home": "Castleford Tigers",
+          "away": "Wakefield Trinity",
+          "result": { "home": 8, "away": 32, "winner": "Wakefield Trinity" }
+        }
+      ]
+    },
+    {
+      "round": 11,
+      "matches": [
+        {
+          "date": "2025-05-15",
+          "ko": "20:00",
+          "home": "St Helens",
+          "away": "Catalans Dragons",
+          "venue": "Totally Wicked Stadium",
+          "result": { "home": 40, "away": 0, "winner": "St Helens" }
+        },
+        {
+          "date": "2025-05-16",
+          "ko": "20:00",
+          "home": "Wigan Warriors",
+          "away": "Leigh Leopards",
+          "venue": "Brick Community Stadium",
+          "result": { "home": 36, "away": 28, "winner": "Wigan Warriors" }
+        },
+        {
+          "date": "2025-05-16",
+          "ko": "20:00",
+          "home": "Leeds Rhinos",
+          "away": "Hull FC",
+          "venue": "AMT Headingley",
+          "result": { "home": 18, "away": 16, "winner": "Leeds Rhinos" }
+        },
+        {
+          "date": "2025-05-17",
+          "ko": "15:00",
+          "home": "Hull KR",
+          "away": "Huddersfield Giants",
+          "venue": "Sewell Group Craven Park",
+          "result": { "home": 34, "away": 0, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-05-18",
+          "ko": "15:00",
+          "home": "Wakefield Trinity",
+          "away": "Warrington Wolves",
+          "venue": "DIY Kitchens Stadium",
+          "result": { "home": 40, "away": 10, "winner": "Wakefield Trinity" }
+        },
+        {
+          "date": "2025-05-18",
+          "ko": "15:00",
+          "home": "Castleford Tigers",
+          "away": "Salford Red Devils",
+          "venue": "The Mend-A-Hose Jungle",
+          "result": { "home": 48, "away": 16, "winner": "Castleford Tigers" }
+        }
+      ]
+    },
+    {
+      "round": 12,
+      "matches": [
+        {
+          "date": "2025-05-22",
+          "ko": "20:00",
+          "home": "Leigh Leopards",
+          "away": "Hull FC",
+          "venue": "Leigh Sports Village",
+          "result": { "home": 12, "away": 26, "winner": "Hull FC" }
+        },
+        {
+          "date": "2025-05-23",
+          "ko": "20:00",
+          "home": "Warrington Wolves",
+          "away": "Hull KR",
+          "venue": "Halliwell Jones Stadium",
+          "result": { "home": 12, "away": 31, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-05-23",
+          "ko": "20:00",
+          "home": "Huddersfield Giants",
+          "away": "St Helens",
+          "venue": "John Smith's Stadium",
+          "result": { "home": 4, "away": 46, "winner": "St Helens" }
+        },
+        {
+          "date": "2025-05-24",
+          "ko": "15:00",
+          "home": "Castleford Tigers",
+          "away": "Leeds Rhinos",
+          "venue": "The Mend-A-Hose Jungle",
+          "result": { "home": 6, "away": 29, "winner": "Leeds Rhinos" }
+        },
+        {
+          "date": "2025-05-24",
+          "ko": "17:30",
+          "home": "Catalans Dragons",
+          "away": "Wigan Warriors",
+          "venue": "Stade Gilbert Brutus",
+          "result": { "home": 0, "away": 48, "winner": "Wigan Warriors" }
+        },
+        {
+          "date": "2025-05-25",
+          "ko": "15:00",
+          "home": "Wakefield Trinity",
+          "away": "Salford Red Devils",
+          "venue": "DIY Kitchens Stadium",
+          "result": { "home": 72, "away": 10, "winner": "Wakefield Trinity" }
+        }
+      ]
+    },
+    {
+      "round": 13,
+      "matches": [
+        {
+          "date": "2025-05-29",
+          "ko": "20:00",
+          "home": "Huddersfield Giants",
+          "away": "Leigh Leopards",
+          "venue": "John Smith's Stadium",
+          "result": { "home": 24, "away": 28, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-05-30",
+          "ko": "20:00",
+          "home": "Warrington Wolves",
+          "away": "Castleford Tigers",
+          "venue": "Halliwell Jones Stadium",
+          "result": { "home": 34, "away": 24, "winner": "Warrington Wolves" }
+        },
+        {
+          "date": "2025-05-30",
+          "ko": "20:00",
+          "home": "Hull KR",
+          "away": "St Helens",
+          "venue": "Sewell Group Craven Park",
+          "result": { "home": 34, "away": 4, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-05-30",
+          "ko": "20:00",
+          "home": "Salford Red Devils",
+          "away": "Wigan Warriors",
+          "venue": "Salford Community Stadium",
+          "result": { "home": 6, "away": 46, "winner": "Wigan Warriors" }
+        },
+        {
+          "date": "2025-05-31",
+          "ko": "15:00",
+          "home": "Leeds Rhinos",
+          "away": "Wakefield Trinity",
+          "venue": "AMT Headingley",
+          "result": { "home": 22, "away": 18, "winner": "Leeds Rhinos" }
+        },
+        {
+          "date": "2025-05-31",
+          "ko": "17:30",
+          "home": "Catalans Dragons",
+          "away": "Hull FC",
+          "venue": "Stade Gilbert Brutus",
+          "result": { "home": 0, "away": 34, "winner": "Hull FC" }
+        }
+      ]
+    },
+    {
+      "round": 14,
+      "matches": [
+        {
+          "date": "2025-06-13",
+          "ko": "20:00",
+          "home": "Hull KR",
+          "away": "Catalans Dragons",
+          "venue": "Sewell Group Craven Park",
+          "result": { "home": 68, "away": 6, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-06-13",
+          "ko": "20:00",
+          "home": "Hull FC",
+          "away": "Castleford Tigers",
+          "venue": "MKM Stadium",
+          "result": { "home": 14, "away": 22, "winner": "Castleford Tigers" }
+        },
+        {
+          "date": "2025-06-14",
+          "ko": "15:00",
+          "home": "Huddersfield Giants",
+          "away": "Wigan Warriors",
+          "venue": "John Smith's Stadium",
+          "result": { "home": 18, "away": 22, "winner": "Wigan Warriors" }
+        },
+        {
+          "date": "2025-06-14",
+          "ko": "17:30",
+          "home": "Leeds Rhinos",
+          "away": "Warrington Wolves",
+          "venue": "AMT Headingley",
+          "result": { "home": 36, "away": 12, "winner": "Leeds Rhinos" }
+        },
+        {
+          "date": "2025-06-15",
+          "ko": "15:00",
+          "home": "Wakefield Trinity",
+          "away": "Leigh Leopards",
+          "venue": "DIY Kitchens Stadium",
+          "result": { "home": 20, "away": 24, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-06-15",
+          "ko": "15:00",
+          "home": "Salford Red Devils",
+          "away": "St Helens",
+          "venue": "Salford Community Stadium",
+          "result": { "home": 4, "away": 46, "winner": "St Helens" }
+        }
+      ]
+    },
+    {
+      "round": 15,
+      "matches": [
+        {
+          "date": "2025-06-19",
+          "ko": "20:00",
+          "home": "Castleford Tigers",
+          "away": "Hull KR",
+          "venue": "The Mend-A-Hose Jungle",
+          "result": { "home": 0, "away": 48, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-06-20",
+          "ko": "20:00",
+          "home": "St Helens",
+          "away": "Leeds Rhinos",
+          "venue": "Totally Wicked Stadium",
+          "result": { "home": 18, "away": 4, "winner": "St Helens" }
+        },
+        {
+          "date": "2025-06-20",
+          "ko": "20:00",
+          "home": "Wakefield Trinity",
+          "away": "Wigan Warriors",
+          "venue": "DIY Kitchens Stadium",
+          "result": { "home": 16, "away": 10, "winner": "Wakefield Trinity" }
+        },
+        {
+          "date": "2025-06-21",
+          "ko": "15:00",
+          "home": "Warrington Wolves",
+          "away": "Huddersfield Giants",
+          "venue": "Halliwell Jones Stadium",
+          "result": { "home": 16, "away": 24, "winner": "Huddersfield Giants" }
+        },
+        {
+          "date": "2025-06-21",
+          "ko": "17:30",
+          "home": "Catalans Dragons",
+          "away": "Leigh Leopards",
+          "venue": "Stade Gilbert Brutus",
+          "result": { "home": 12, "away": 26, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-06-22",
+          "ko": "15:00",
+          "home": "Salford Red Devils",
+          "away": "Hull FC",
+          "venue": "Salford Community Stadium",
+          "result": { "home": 6, "away": 38, "winner": "Hull FC" }
+        }
+      ]
+    },
+    {
+      "round": 16,
+      "matches": [
+        {
+          "date": "2025-06-27",
+          "ko": "20:00",
+          "home": "Hull KR",
+          "away": "Wakefield Trinity",
+          "venue": "Sewell Group Craven Park",
+          "result": { "home": 34, "away": 10, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-06-27",
+          "ko": "20:00",
+          "home": "Leeds Rhinos",
+          "away": "Leigh Leopards",
+          "venue": "AMT Headingley",
+          "result": { "home": 48, "away": 30, "winner": "Leeds Rhinos" }
+        },
+        {
+          "date": "2025-06-28",
+          "ko": "15:00",
+          "home": "Catalans Dragons",
+          "away": "Huddersfield Giants",
+          "venue": "Stade Gilbert Brutus",
+          "result": { "home": 32, "away": 0, "winner": "Catalans Dragons" }
+        },
+        {
+          "date": "2025-06-28",
+          "ko": "17:30",
+          "home": "Warrington Wolves",
+          "away": "Hull FC",
+          "venue": "Halliwell Jones Stadium",
+          "result": { "home": 24, "away": 10, "winner": "Warrington Wolves" }
+        },
+        {
+          "date": "2025-06-28",
+          "ko": "17:30",
+          "home": "Castleford Tigers",
+          "away": "Wigan Warriors",
+          "venue": "The Mend-A-Hose Jungle",
+          "result": { "home": 20, "away": 26, "winner": "Wigan Warriors" }
+        },
+        {
+          "date": "2025-06-29",
+          "ko": "15:00",
+          "home": "St Helens",
+          "away": "Salford Red Devils",
+          "venue": "Totally Wicked Stadium",
+          "result": { "home": 58, "away": 0, "winner": "St Helens" }
+        }
+      ]
+    },
+    {
+      "round": 17,
+      "matches": [
+        {
+          "date": "2025-07-03",
+          "ko": "20:00",
+          "home": "Castleford Tigers",
+          "away": "Huddersfield Giants",
+          "venue": "The Mend-A-Hose Jungle",
+          "result": { "home": 12, "away": 30, "winner": "Huddersfield Giants" }
+        },
+        {
+          "date": "2025-07-04",
+          "ko": "20:00",
+          "home": "Leigh Leopards",
+          "away": "Wigan Warriors",
+          "venue": "Leigh Sports Village",
+          "result": { "home": 18, "away": 8, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-07-04",
+          "ko": "20:00",
+          "home": "Salford Red Devils",
+          "away": "Warrington Wolves",
+          "venue": "Salford Community Stadium",
+          "result": { "home": 12, "away": 24, "winner": "Warrington Wolves" }
+        },
+        {
+          "date": "2025-07-05",
+          "ko": "15:00",
+          "home": "Hull FC",
+          "away": "St Helens",
+          "venue": "MKM Stadium",
+          "result": { "home": 6, "away": 13, "winner": "St Helens" }
+        },
+        {
+          "date": "2025-07-05",
+          "ko": "17:30",
+          "home": "Wakefield Trinity",
+          "away": "Catalans Dragons",
+          "venue": "DIY Kitchens Stadium",
+          "result": { "home": 44, "away": 6, "winner": "Wakefield Trinity" }
+        },
+        {
+          "date": "2025-07-06",
+          "ko": "15:00",
+          "home": "Hull KR",
+          "away": "Leeds Rhinos",
+          "venue": "Sewell Group Craven Park",
+          "result": { "home": 8, "away": 14, "winner": "Leeds Rhinos" }
+        }
+      ]
+    },
+    {
+      "round": 18,
+      "matches": [
+        {
+          "date": "2025-07-10",
+          "ko": "20:00",
+          "home": "Hull FC",
+          "away": "Wakefield Trinity",
+          "venue": "MKM Stadium",
+          "result": { "home": 16, "away": 10, "winner": "Hull FC" }
+        },
+        {
+          "date": "2025-07-11",
+          "ko": "20:00",
+          "home": "Wigan Warriors",
+          "away": "Huddersfield Giants",
+          "venue": "Brick Community Stadium",
+          "result": { "home": 30, "away": 10, "winner": "Wigan Warriors" }
+        },
+        {
+          "date": "2025-07-11",
+          "ko": "20:00",
+          "home": "Leeds Rhinos",
+          "away": "St Helens",
+          "venue": "AMT Headingley",
+          "result": { "home": 0, "away": 6, "winner": "St Helens" }
+        },
+        {
+          "date": "2025-07-12",
+          "ko": "15:00",
+          "home": "Leigh Leopards",
+          "away": "Hull KR",
+          "venue": "Leigh Sports Village",
+          "result": { "home": 28, "away": 10, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-07-12",
+          "ko": "17:30",
+          "home": "Catalans Dragons",
+          "away": "Warrington Wolves",
+          "venue": "Stade Gilbert Brutus",
+          "result": { "home": 20, "away": 24, "winner": "Warrington Wolves" }
+        },
+        {
+          "date": "2025-07-13",
+          "ko": "15:00",
+          "home": "Salford Red Devils",
+          "away": "Castleford Tigers",
+          "venue": "Salford Community Stadium",
+          "result": { "home": 261, "away": 22, "winner": "Salford Red Devils" }
+        }
+      ]
+    },
+    {
+      "round": 19,
+      "matches": [
+        {
+          "date": "2025-07-17",
+          "ko": "20:00",
+          "home": "St Helens",
+          "away": "Leigh Leopards",
+          "venue": "Totally Wicked Stadium",
+          "result": { "home": 4, "away": 16, "winner": "Leigh Leopards" }
+        },
+        {
+          "date": "2025-07-18",
+          "ko": "20:00",
+          "home": "Huddersfield Giants",
+          "away": "Wakefield Trinity",
+          "venue": "John Smith's Stadium",
+          "result": { "home": 10, "away": 46, "winner": "Wakefield Trinity" }
+        },
+        {
+          "date": "2025-07-18",
+          "ko": "20:00",
+          "home": "Leeds Rhinos",
+          "away": "Salford Red Devils",
+          "venue": "AMT Headingley",
+          "result": { "home": 42, "away": 6, "winner": "Leeds Rhinos" }
+        },
+        {
+          "date": "2025-07-19",
+          "ko": "15:00",
+          "home": "Wigan Warriors",
+          "away": "Hull FC",
+          "venue": "Brick Community Stadium",
+          "result": { "home": 12, "away": 32, "winner": "Hull FC" }
+        },
+        {
+          "date": "2025-07-19",
+          "ko": "17:30",
+          "home": "Catalans Dragons",
+          "away": "Hull KR",
+          "venue": "Stade Gilbert Brutus",
+          "result": { "home": 6, "away": 34, "winner": "Hull KR" }
+        },
+        {
+          "date": "2025-07-20",
+          "ko": "15:00",
+          "home": "Castleford Tigers",
+          "away": "Warrington Wolves",
+          "venue": "The Mend-A-Hose Jungle",
+          "result": { "home": 20, "away": 14, "winner": "Castleford Tigers" }
+        }
+      ]
+    },
+    {
+      "round": 20,
+      "matches": [
+        { "date": "2025-07-24", "ko": "20:00", "home": "Wakefield Trinity", "away": "Leeds Rhinos", "venue": "DIY Kitchens Stadium", "result": { "home": 15, "away": 14, "winner": "Wakefield Trinity" } },
+        { "date": "2025-07-25", "ko": "20:00", "home": "Wigan Warriors", "away": "Catalans Dragons", "venue": "Brick Community Stadium", "result": { "home": 28, "away": 18, "winner": "Wigan Warriors" } },
+        { "date": "2025-07-26", "ko": "15:00", "home": "Hull FC", "away": "Huddersfield Giants", "venue": "MKM Stadium", "result": { "home": 14, "away": 30, "winner": "Huddersfield Giants" } },
+        { "date": "2025-07-31", "ko": "20:00", "home": "Salford Red Devils", "away": "Hull KR", "venue": "Salford Community Stadium" },
+        { "date": "2025-08-01", "ko": "20:00", "home": "Leigh Leopards", "away": "Warrington Wolves", "venue": "Leigh Sports Village" },
+        { "date": "2025-08-01", "ko": "20:00", "home": "St Helens", "away": "Castleford Tigers", "venue": "Totally Wicked Stadium" }
+      ]
+    },
+    {
+      "round": 21,
+      "matches": [
+        { "date": "2025-08-07", "ko": "20:00", "home": "Leigh Leopards", "away": "Leeds Rhinos", "venue": "Leigh Sports Village" },
+        { "date": "2025-08-08", "ko": "20:00", "home": "Warrington Wolves", "away": "Wigan Warriors", "venue": "Halliwell Jones Stadium" },
+        { "date": "2025-08-08", "ko": "20:00", "home": "Wakefield Trinity", "away": "St Helens", "venue": "DIY Kitchens Stadium" },
+        { "date": "2025-08-09", "ko": "15:00", "home": "Hull KR", "away": "Castleford Tigers", "venue": "Sewell Group Craven Park" },
+        { "date": "2025-08-09", "ko": "17:30", "home": "Huddersfield Giants", "away": "Catalans Dragons", "venue": "John Smith's Stadium" },
+        { "date": "2025-08-10", "ko": "15:00", "home": "Hull FC", "away": "Salford Red Devils", "venue": "MKM Stadium" }
+      ]
+    },
+    {
+      "round": 22,
+      "matches": [
+        { "date": "2025-08-14", "ko": "20:00", "home": "Warrington Wolves", "away": "Catalans Dragons", "venue": "Halliwell Jones Stadium" },
+        { "date": "2025-08-15", "ko": "20:00", "home": "St Helens", "away": "Hull FC", "venue": "Totally Wicked Stadium" },
+        { "date": "2025-08-15", "ko": "20:00", "home": "Leigh Leopards", "away": "Salford Red Devils", "venue": "Leigh Sports Village" },
+        { "date": "2025-08-16", "ko": "15:00", "home": "Huddersfield Giants", "away": "Warrington Wolves", "venue": "John Smith's Stadium" },
+        { "date": "2025-08-16", "ko": "18:00", "home": "Catalans Dragons", "away": "Castleford Tigers", "venue": "Stade Gilbert Brutus" },
+        { "date": "2025-08-17", "ko": "15:00", "home": "Wigan Warriors", "away": "Wakefield Trinity", "venue": "Brick Community Stadium" }
+      ]
+    },
+    {
+      "round": 23,
+      "matches": [
+        { "date": "2025-08-21", "ko": "20:00", "home": "Leeds Rhinos", "away": "Hull KR", "venue": "AMT Headingley" },
+        { "date": "2025-08-22", "ko": "20:00", "home": "St Helens", "away": "Hull FC", "venue": "Totally Wicked Stadium" },
+        { "date": "2025-08-22", "ko": "20:00", "home": "Leigh Leopards", "away": "Salford Red Devils", "venue": "Leigh Sports Village" },
+        { "date": "2025-08-23", "ko": "15:00", "home": "Huddersfield Giants", "away": "Warrington Wolves", "venue": "John Smith's Stadium" },
+        { "date": "2025-08-23", "ko": "18:00", "home": "Catalans Dragons", "away": "Castleford Tigers", "venue": "Stade Gilbert Brutus" },
+        { "date": "2025-08-24", "ko": "15:00", "home": "Wigan Warriors", "away": "Wakefield Trinity", "venue": "Brick Community Stadium" }
+      ]
+    },
+    {
+      "round": 24,
+      "matches": [
+        { "date": "2025-08-28", "ko": "20:00", "home": "Leigh Leopards", "away": "Castleford Tigers", "venue": "Leigh Sports Village" },
+        { "date": "2025-08-29", "ko": "20:00", "home": "Hull KR", "away": "St Helens", "venue": "Sewell Group Craven Park" },
+        { "date": "2025-08-29", "ko": "20:00", "home": "Warrington Wolves", "away": "Salford Red Devils", "venue": "Halliwell Jones Stadium" },
+        { "date": "2025-08-30", "ko": "15:00", "home": "Hull FC", "away": "Leeds Rhinos", "venue": "MKM Stadium" },
+        { "date": "2025-08-30", "ko": "20:00", "home": "Catalans Dragons", "away": "Wigan Warriors", "venue": "Stade Gilbert Brutus" },
+        { "date": "2025-08-31", "ko": "15:00", "home": "Wakefield Trinity", "away": "Huddersfield Giants", "venue": "DIY Kitchens Stadium" }
+      ]
+    },
+    {
+      "round": 25,
+      "name": "Rivals Round (reversed)",
+      "matches": [
+        { "date": "2025-09-04", "ko": "20:00", "home": "Salford Red Devils", "away": "Catalans Dragons", "venue": "Salford Community Stadium" },
+        { "date": "2025-09-05", "ko": "20:00", "home": "St Helens", "away": "Wigan Warriors", "venue": "Totally Wicked Stadium" },
+        { "date": "2025-09-05", "ko": "20:00", "home": "Castleford Tigers", "away": "Wakefield Trinity", "venue": "The Mend-A-Hose Jungle" },
+        { "date": "2025-09-06", "ko": "15:00", "home": "Warrington Wolves", "away": "Leigh Leopards", "venue": "Halliwell Jones Stadium" },
+        { "date": "2025-09-06", "ko": "17:30", "home": "Huddersfield Giants", "away": "Leeds Rhinos", "venue": "John Smith's Stadium" },
+        { "date": "2025-09-07", "ko": "15:00", "home": "Hull KR", "away": "Hull FC", "venue": "Sewell Group Craven Park" }
+      ]
+    },
+    {
+      "round": 26,
+      "matches": [
+        { "date": "2025-09-11", "ko": "20:00", "home": "Leeds Rhinos", "away": "Catalans Dragons", "venue": "AMT Headingley" },
+        { "date": "2025-09-12", "ko": "20:00", "home": "Wigan Warriors", "away": "Castleford Tigers", "venue": "Brick Community Stadium" },
+        { "date": "2025-09-12", "ko": "20:00", "home": "Leigh Leopards", "away": "St Helens", "venue": "Leigh Sports Village" },
+        { "date": "2025-09-13", "ko": "15:00", "home": "Wakefield Trinity", "away": "Hull KR", "venue": "DIY Kitchens Stadium" },
+        { "date": "2025-09-13", "ko": "17:30", "home": "Hull FC", "away": "Warrington Wolves", "venue": "MKM Stadium" },
+        { "date": "2025-09-14", "ko": "15:00", "home": "Huddersfield Giants", "away": "Salford Red Devils", "venue": "John Smith's Stadium" }
+      ]
+    },
+    {
+      "round": 27,
+      "matches": [
+        { "date": "2025-09-18", "ko": "TBC", "home": "Hull KR", "away": "Warrington Wolves", "venue": "Sewell Group Craven Park" },
+        { "date": "2025-09-18", "ko": "TBC", "home": "St Helens", "away": "Castleford Tigers", "venue": "Totally Wicked Stadium" },
+        { "date": "2025-09-19", "ko": "TBC", "home": "Leigh Leopards", "away": "Huddersfield Giants", "venue": "Leigh Sports Village" },
+        { "date": "2025-09-19", "ko": "TBC", "home": "Salford Red Devils", "away": "Wakefield Trinity", "venue": "Salford Community Stadium" },
+        { "date": "2025-09-20", "ko": "TBC", "home": "Hull FC", "away": "Catalans Dragons", "venue": "MKM Stadium" },
+        { "date": "2025-09-21", "ko": "TBC", "home": "Wigan Warriors", "away": "Leeds Rhinos", "venue": "Brick Community Stadium" }
+      ]
+    }
+  ],
+  "playOffs": {
+    "eliminationPlayOffs": "2025-09-26/27",
+    "semiFinals": "2025-10-03/04",
+    "grandFinal": {
+      "date": "2025-10-11",
+      "venue": "Old Trafford, Manchester"
+    }
+  }
+}
