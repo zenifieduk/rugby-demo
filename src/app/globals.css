@@ -3,6 +3,18 @@
 
 @custom-variant dark (&:is(.dark *));
 
+/* Wigan Warriors Brand Colors */
+:root {
+  --wigan-burgundy: #862633;
+  --wigan-white: #FFFFFF;
+  --wigan-black: #15100C;
+  
+  /* CSS Custom Properties for Tailwind */
+  --color-wigan-burgundy: 134 38 51;
+  --color-wigan-white: 255 255 255;
+  --color-wigan-black: 21 16 12;
+}
+
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
