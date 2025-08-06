@@ -29,16 +29,12 @@ export function Sidebar() {
   return (
     <div className="flex h-full w-64 flex-col bg-white border-r border-gray-200">
       {/* Logo/Header */}
-      <div className="flex h-16 shrink-0 items-center px-6 border-b border-gray-200">
-        <div className="flex items-center space-x-3">
-          <div className="h-8 w-8 rounded bg-blue-600 flex items-center justify-center">
-            <span className="text-white font-bold text-sm">WW</span>
-          </div>
-          <div>
-            <h1 className="text-lg font-semibold text-gray-900">Wigan Warriors</h1>
-            <p className="text-xs text-gray-500">Rugby League</p>
-          </div>
-        </div>
+      <div className="flex h-16 shrink-0 items-center justify-center px-6 border-b border-gray-200">
+        <img 
+          src="/images/club-badges/wigan-warriors-logo.svg" 
+          alt="Wigan Warriors" 
+          className="h-10 w-10"
+        />
       </div>
 
       {/* Navigation */}
