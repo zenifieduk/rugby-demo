@@ -34,7 +34,7 @@ export function Sidebar() {
           <img 
             src="/images/club-badges/wigan-warriors-logo.svg" 
             alt="Wigan Warriors" 
-            className="h-8 w-8 brightness-0 invert"
+            className="h-8 w-8"
           />
           <div>
             <h1 className="text-lg font-semibold text-white">Wigan Warriors</h1>
