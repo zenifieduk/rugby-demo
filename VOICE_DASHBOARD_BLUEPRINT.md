@@ -7,10 +7,10 @@ This blueprint documents the architecture for building voice-controlled dashboar
 ## Core Architecture Pattern: Persistent Layout with Client-Side Navigation
 
 ### Key Concept
-Uses Next.js App Router's **Persistent Layout Pattern** to maintain voice connections during navigation:
+Uses Next.js App Router's **Persistent Layout Pattern** to maintain voice agent sessions during navigation:
 - Sidebar and layout components never unmount
 - Client-side navigation prevents page reloads
-- WebSocket/voice connections remain active
+- Voice agent state and context remain active
 - DOM elements stay stable for voice control
 
 ## Tech Stack
@@ -32,8 +32,8 @@ Uses Next.js App Router's **Persistent Layout Pattern** to maintain voice connec
 - **Prisma ORM** - Database integration
 
 ### Voice Integration Ready
-- **ElevenLabs** voice agents (WebSocket connections)
-- **Client-side navigation** preserves voice state
+- **ElevenLabs Conversational AI** (REST API + streaming)
+- **Client-side navigation** preserves voice agent state
 - **DOM-stable elements** for voice control
 
 ### Development Tools
@@ -156,36 +156,52 @@ Add brand colors to `globals.css` and apply to sidebar component.
 
 ## Voice Integration Architecture
 
-### ElevenLabs Connection Pattern
+### ElevenLabs Conversational AI Pattern
 ```typescript
 // Recommended: Initialize in layout.tsx
 'use client'
-import { useEffect, useRef } from 'react'
+import { useState, useEffect, useRef } from 'react'
 
 export function VoiceProvider({ children }) {
-  const voiceConnection = useRef(null)
+  const [agentId, setAgentId] = useState(null)
+  const [conversationId, setConversationId] = useState(null)
+  const audioRef = useRef(null)
   
   useEffect(() => {
-    // Initialize ElevenLabs voice agent
-    // Connection persists during navigation
+    // Initialize ElevenLabs agent via API
+    // Agent state persists during navigation
+    initializeVoiceAgent()
   }, [])
   
+  const initializeVoiceAgent = async () => {
+    // Create agent session via REST API
+    // Maintains conversation context across page changes
+  }
+  
   return (
-    <VoiceContext.Provider value={voiceConnection}>
+    <VoiceContext.Provider value={{ agentId, conversationId, audioRef }}>
       {children}
     </VoiceContext.Provider>
   )
 }
 ```
 
+### Why ElevenLabs Conversational AI > WebSocket
+1. **Vercel Compatibility** - No persistent connections needed
+2. **Serverless Friendly** - Works with edge functions
+3. **Better Reliability** - Handles network drops gracefully
+4. **Conversation Persistence** - Agent remembers context via API
+5. **Simpler State Management** - REST endpoints easier to manage
+
 ### DOM Stability for Voice Control
 - Use consistent `data-voice-target` attributes
 - Sidebar elements maintain stable DOM positions
 - Navigation items have predictable selectors
+- Agent can reference page context through conversation API
 
 ## Key Benefits
 
-1. **Voice Persistence** - Connections never drop during navigation
+1. **Voice Persistence** - Agent sessions maintained during navigation
 2. **Performance** - Instant page transitions
 3. **State Continuity** - No loss of voice agent context
 4. **SEO Friendly** - Still uses proper routing
@@ -227,10 +243,11 @@ Define brand colors in CSS variables and apply consistently:
 
 ## Troubleshooting
 
-### Voice Connection Issues
+### Voice Agent Issues
 - Check layout component is client-side
-- Verify WebSocket doesn't reinitialize on navigation
-- Ensure DOM elements have stable references
+- Verify agent doesn't reinitialize on navigation
+- Ensure conversation ID persists across pages
+- Confirm API endpoints are properly configured
 
 ### Navigation Problems
 - Confirm using Next.js `<Link>` components
