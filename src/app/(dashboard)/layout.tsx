@@ -1,4 +1,7 @@
+'use client'
+
 import { Sidebar } from '@/components/sidebar'
+import { VoiceProvider } from '@/components/voice-provider'
 
 export default function DashboardLayout({
   children,
@@ -6,13 +9,15 @@ export default function DashboardLayout({
   children: React.ReactNode
 }) {
   return (
-    <div className="flex h-screen bg-gray-50">
-      <Sidebar />
-      <main className="flex-1 overflow-y-auto">
-        <div className="p-6">
-          {children}
-        </div>
-      </main>
-    </div>
+    <VoiceProvider>
+      <div className="flex h-screen bg-gray-50">
+        <Sidebar />
+        <main className="flex-1 overflow-y-auto">
+          <div className="p-6">
+            {children}
+          </div>
+        </main>
+      </div>
+    </VoiceProvider>
   )
 }

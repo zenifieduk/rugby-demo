@@ -1012,9 +1012,9 @@
         { "date": "2025-07-24", "ko": "20:00", "home": "Wakefield Trinity", "away": "Leeds Rhinos", "venue": "DIY Kitchens Stadium", "result": { "home": 15, "away": 14, "winner": "Wakefield Trinity" } },
         { "date": "2025-07-25", "ko": "20:00", "home": "Wigan Warriors", "away": "Catalans Dragons", "venue": "Brick Community Stadium", "result": { "home": 28, "away": 18, "winner": "Wigan Warriors" } },
         { "date": "2025-07-26", "ko": "15:00", "home": "Hull FC", "away": "Huddersfield Giants", "venue": "MKM Stadium", "result": { "home": 14, "away": 30, "winner": "Huddersfield Giants" } },
-        { "date": "2025-07-31", "ko": "20:00", "home": "Salford Red Devils", "away": "Hull KR", "venue": "Salford Community Stadium" },
-        { "date": "2025-08-01", "ko": "20:00", "home": "Leigh Leopards", "away": "Warrington Wolves", "venue": "Leigh Sports Village" },
-        { "date": "2025-08-01", "ko": "20:00", "home": "St Helens", "away": "Castleford Tigers", "venue": "Totally Wicked Stadium" }
+        { "date": "2025-07-31", "ko": "20:00", "home": "Salford Red Devils", "away": "Hull KR", "venue": "Salford Community Stadium", "result": { "home": 12, "away": 74, "winner": "Hull KR" } },
+        { "date": "2025-08-01", "ko": "20:00", "home": "Leigh Leopards", "away": "Warrington Wolves", "venue": "Leigh Sports Village", "result": { "home": 20, "away": 16, "winner": "Leigh Leopards" } },
+        { "date": "2025-08-01", "ko": "20:00", "home": "St Helens", "away": "Castleford Tigers", "venue": "Totally Wicked Stadium", "result": { "home": 40, "away": 0, "winner": "St Helens" } }
       ]
     },
     {
